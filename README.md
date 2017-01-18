@@ -1,2 +1,1 @@
-# OODExercise
 # OODesignExercise
